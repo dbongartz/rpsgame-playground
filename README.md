@@ -1,2 +1,3 @@
-# rpsgame-playground
-Playground repository for a "Rock, Paper, Scissors" game to learn about software development.
+# Rpsgame-playground
+
+_A playground repository for a "Rock, Paper, Scissors" game to learn about software development.
